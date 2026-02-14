@@ -28,7 +28,7 @@ The project simulates an online food ordering interface with a clean layout, att
 
 Example:
 ![Website Screenshot](screenshot.png)
-![Website Screenshot](screenshot(2).png)
+
 
 ---
 
